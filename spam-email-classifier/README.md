@@ -9,7 +9,7 @@ A complete project to classify emails as **spam** or **ham** using **Python**, *
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/kushwahshivam/spam-email-classifier.git
+git clone https://github.com/rishieeee/spam-email-classifier.git
 cd spam-email-classifier
 
 python -m venv .venv
@@ -120,5 +120,6 @@ Ensure your Python version matches the one used during training to avoid sklearn
 For larger datasets, consider using class weights or other classifiers like Logistic Regression or Linear SVM
 
 Use pip install --upgrade scikit-learn pandas if encountering version mismatch warnings
+
 
 
